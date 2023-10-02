@@ -1,0 +1,837 @@
+movie_title,movie_year,runtime,genre,rating,director,votes,gross_earning
+Alien,1979,117,"Horror, Sci-Fi",8.5,Ridley Scott,905275,78900000
+Psycho,1960,109,"Horror, Mystery, Thriller",8.5,Alfred Hitchcock,689068,32000000
+The Shining,1980,146,"Drama, Horror",8.4,Stanley Kubrick,1051582,44020000
+The Thing,1982,109,"Horror, Mystery, Sci-Fi",8.2,John Carpenter,439793,13780000
+Tumbbad,2018,104,"Drama, Fantasy, Horror",8.2,Rahi Anil Barve,53297,
+The Exorcist,1973,122,Horror,8.1,William Friedkin,422330,232910000
+Diabolique,1955,117,"Crime, Drama, Horror",8.1,Henri-Georges Clouzot,67456,1090000
+Rosemary's Baby,1968,137,"Drama, Horror",8,Roman Polanski,223968,
+What Ever Happened to Baby Jane?,1962,134,"Drama, Horror, Thriller",8,Robert Aldrich,58904,4050000
+The Cabinet of Dr. Caligari,1920,67,"Horror, Mystery, Thriller",8,Robert Wiene,66749,
+The Blue Elephant,2014,170,"Drama, Horror, Mystery",8,Marwan Hamed,29151,
+Shaun of the Dead,2004,99,"Comedy, Horror",7.9,Edgar Wright,572237,13540000
+Nosferatu,1922,94,"Fantasy, Horror",7.9,F.W. Murnau,100942,
+Let the Right One In,2008,114,"Drama, Fantasy, Horror",7.9,Tomas Alfredson,221604,2120000
+King Kong,1933,100,"Adventure, Horror, Sci-Fi",7.9,Merian C. Cooper,88019,10000000
+Get Out I,2017,104,"Horror, Mystery, Thriller",7.8,Jordan Peele,642604,176040000
+Predator,1987,107,"Action, Adventure, Horror",7.8,John McTiernan,435400,59740000
+I Saw the Devil,2010,144,"Action, Crime, Horror",7.8,Jee-woon Kim,137559,130000
+Dawn of the Dead,1978,127,"Horror, Thriller",7.8,George A. Romero,124374,5100000
+Night of the Living Dead,1968,96,"Horror, Thriller",7.8,George A. Romero,133452,90000
+Freaks,1932,64,"Drama, Horror",7.8,Tod Browning,48381,630000
+Frankenstein,1931,70,"Drama, Horror, Sci-Fi",7.8,James Whale,75779,
+The Innocents,1961,100,Horror,7.8,Jack Clayton,31689,2620000
+The Bride of Frankenstein,1935,75,"Drama, Horror, Sci-Fi",7.8,James Whale,50611,4360000
+Evil Dead II,1987,84,"Comedy, Horror",7.7,Sam Raimi,173914,5920000
+Halloween,1978,91,"Horror, Thriller",7.7,John Carpenter,289224,47000000
+Invasion of the Body Snatchers,1956,80,"Drama, Horror, Sci-Fi",7.7,Don Siegel,52292,
+American Psycho,2000,102,"Crime, Drama, Horror",7.6,Mary Harron,658696,15070000
+Saw,2004,103,"Horror, Mystery, Thriller",7.6,James Wan,436144,56000000
+Train to Busan,2016,118,"Action, Horror, Thriller",7.6,Sang-ho Yeon,235577,2130000
+The Fly,1986,96,"Drama, Horror, Sci-Fi",7.6,David Cronenberg,191571,40460000
+Zombieland,2009,88,"Action, Comedy, Horror",7.6,Ruben Fleischer,596433,75590000
+The Birds,1963,119,"Drama, Horror, Mystery",7.6,Alfred Hitchcock,196469,11400000
+The Skin I Live In,2011,120,"Drama, Horror, Mystery",7.6,Pedro Almodóvar,158708,3190000
+The Others,2001,104,"Horror, Mystery, Thriller",7.6,Alejandro Amenábar,377287,96520000
+What We Do in the Shadows,2014,86,"Comedy, Horror",7.6,Jemaine Clement,190548,3330000
+Eyes Without a Face,1960,90,"Drama, Horror",7.6,Georges Franju,33321,50000
+Vampire Hunter D: Bloodlust,2000,103,"Animation, Action, Drama",7.6,Jack Fletcher,33553,150000
+Repulsion,1965,105,"Drama, Horror, Thriller",7.6,Roman Polanski,55043,
+One Cut of the Dead,2017,96,"Comedy, Drama, Horror",7.6,Shin'ichirô Ueda,27004,
+The Invisible Man,1933,71,"Horror, Sci-Fi",7.6,James Whale,37549,
+Peeping Tom,1960,101,"Drama, Horror, Thriller",7.6,Michael Powell,37256,80000
+The Conjuring,2013,112,"Horror, Mystery, Thriller",7.5,James Wan,526164,137400000
+A Quiet Place,2018,90,"Drama, Horror, Sci-Fi",7.5,John Krasinski,551233,188020000
+28 Days Later,2002,113,"Drama, Horror, Sci-Fi",7.5,Danny Boyle,425705,45060000
+Interview with the Vampire: The Vampire Chronicles,1994,123,"Drama, Fantasy, Horror",7.5,Neil Jordan,333084,105260000
+The Crow,1994,102,"Action, Crime, Drama",7.5,Alex Proyas,190666,50690000
+An American Werewolf in London,1981,97,"Comedy, Horror",7.5,John Landis,113179,30570000
+Tucker and Dale vs Evil,2010,89,"Comedy, Horror",7.5,Eli Craig,186643,220000
+The Wicker Man,1973,88,"Horror, Mystery, Thriller",7.5,Robin Hardy,85380,60000
+The Omen,1976,111,"Horror, Mystery",7.5,Richard Donner,124612,4270000
+Grindhouse,2007,191,"Action, Horror, Thriller",7.5,Robert Rodriguez,187623,25040000
+Braindead,1992,104,"Comedy, Fantasy, Horror",7.5,Peter Jackson,100216,240000
+Godzilla,1954,96,"Horror, Sci-Fi",7.5,Ishirô Honda,35705,2420000
+Deep Red,1975,127,"Horror, Mystery, Thriller",7.5,Dario Argento,40206,
+Stree,2018,128,"Comedy, Horror",7.5,Amar Kaushik,36079,
+The Evil Dead,1981,85,Horror,7.4,Sam Raimi,222282,2400000
+Scream,1996,111,"Horror, Mystery",7.4,Wes Craven,365136,103050000
+Bram Stoker's Dracula,1992,128,"Drama, Fantasy, Horror",7.4,Francis Ford Coppola,226027,82520000
+Army of Darkness,1992,81,"Comedy, Horror",7.4,Sam Raimi,186854,11500000
+The Rocky Horror Picture Show,1975,100,"Comedy, Horror, Musical",7.4,Jim Sharman,158254,139880000
+A Nightmare on Elm Street,1984,91,Horror,7.4,Wes Craven,248750,25500000
+The Texas Chain Saw Massacre,1974,83,Horror,7.4,Tobe Hooper,170855,30860000
+Carrie,1976,98,"Horror, Mystery",7.4,Brian De Palma,195170,33800000
+The Wailing,2016,156,"Drama, Horror, Mystery",7.4,Na Hong-jin,73981,
+Jacob's Ladder I,1990,113,"Drama, Horror, Mystery",7.4,Adrian Lyne,113045,26120000
+Invasion of the Body Snatchers,1978,115,"Horror, Sci-Fi",7.4,Philip Kaufman,64115,24950000
+REC,2007,78,"Horror, Mystery, Thriller",7.4,Jaume Balagueró,187741,
+The Orphanage,2007,105,"Drama, Horror, Mystery",7.4,J.A. Bayona,159601,7160000
+Nosferatu the Vampyre,1979,107,"Drama, Horror",7.4,Werner Herzog,38215,
+Dracula,1931,75,"Drama, Fantasy, Horror",7.4,Tod Browning,55288,
+The Devil's Backbone,2001,106,"Drama, Horror, Thriller",7.4,Guillermo del Toro,68728,750000
+The Haunting,1963,112,Horror,7.4,Robert Wise,40711,2620000
+Thesis,1996,125,"Crime, Horror, Mystery",7.4,Alejandro Amenábar,40595,
+Bhool Bhulaiyaa,2007,159,"Comedy, Horror, Mystery",7.4,Priyadarshan,30282,1070000
+Hereditary,2018,127,"Drama, Horror, Mystery",7.3,Ari Aster,343335,44070000
+It I,2017,135,Horror,7.3,Andy Muschietti,571035,327480000
+Split IX,2016,117,"Horror, Thriller",7.3,M. Night Shyamalan,519308,138290000
+Doctor Sleep,2019,152,"Drama, Fantasy, Horror",7.3,Mike Flanagan,202482,31580000
+Dawn of the Dead,2004,101,"Action, Horror",7.3,Zack Snyder,263099,59020000
+Possession,1981,124,"Drama, Horror",7.3,Andrzej Zulawski,36874,1110000
+Poltergeist,1982,114,"Horror, Thriller",7.3,Tobe Hooper,170924,76610000
+Sweeney Todd: The Demon Barber of Fleet Street,2007,116,"Drama, Horror, Musical",7.3,Tim Burton,376557,52900000
+Gremlins,1984,106,"Comedy, Fantasy, Horror",7.3,Joe Dante,234614,148170000
+The Conjuring 2,2016,134,"Horror, Mystery, Thriller",7.3,James Wan,282543,102470000
+Sleepy Hollow,1999,105,"Fantasy, Horror, Mystery",7.3,Tim Burton,370303,101070000
+Take Shelter,2011,120,"Drama, Horror, Sci-Fi",7.3,Jeff Nichols,103846,1730000
+Eraserhead,1977,89,"Fantasy, Horror",7.3,David Lynch,121484,7000000
+Suspiria,1977,92,Horror,7.3,Dario Argento,98751,
+The Return of the Living Dead,1985,91,"Comedy, Horror, Sci-Fi",7.3,Dan O'Bannon,64592,14240000
+Twin Peaks: Fire Walk with Me,1992,134,"Drama, Horror, Mystery",7.3,David Lynch,100656,4160000
+House,1977,88,"Comedy, Horror",7.3,Nobuhiko Ôbayashi,30498,
+Pi,1998,84,"Drama, Horror, Mystery",7.3,Darren Aronofsky,182946,3220000
+The Hidden Face,2011,97,"Drama, Horror, Mystery",7.3,Andrés Baiz,44415,
+Bacurau,2019,131,"Action, Adventure, Drama",7.3,Juliano Dornelles,29082,
+The Menu,2022,107,"Comedy, Horror, Thriller",7.2,Mark Mylod,323131,
+From Dusk Till Dawn,1996,108,"Action, Crime, Horror",7.2,Robert Rodriguez,326069,25750000
+The Lost Boys,1987,97,"Comedy, Horror",7.2,Joel Schumacher,150478,32220000
+A Quiet Place Part II,2020,97,"Drama, Horror, Sci-Fi",7.2,John Krasinski,248967,160070000
+The Descent,2005,99,"Adventure, Horror, Thriller",7.2,Neil Marshall,233687,26020000
+They Live,1988,94,"Action, Horror, Sci-Fi",7.2,John Carpenter,136510,13010000
+I Am Legend,2007,101,"Action, Drama, Horror",7.2,Francis Lawrence,781259,256390000
+10 Cloverfield Lane,2016,103,"Drama, Horror, Mystery",7.2,Dan Trachtenberg,340537,72080000
+Dead Ringers,1988,116,"Drama, Horror, Thriller",7.2,David Cronenberg,50992,9130000
+Angel Heart,1987,113,"Horror, Mystery, Thriller",7.2,Alan Parker,91791,17190000
+An American Crime,2007,98,"Biography, Crime, Drama",7.2,Tommy O'Haver,35826,
+Videodrome,1983,87,"Horror, Sci-Fi, Thriller",7.2,David Cronenberg,97693,2120000
+Re-Animator,1985,84,"Comedy, Horror, Sci-Fi",7.2,Stuart Gordon,68040,2020000
+Only Lovers Left Alive,2013,123,"Comedy, Drama, Fantasy",7.2,Jim Jarmusch,104159,1880000
+The Changeling,1980,107,"Horror, Mystery",7.2,Peter Medak,37163,
+Ringu,1998,96,"Horror, Mystery",7.2,Hideo Nakata,73508,
+The Dead Zone,1983,103,"Drama, Horror, Sci-Fi",7.2,David Cronenberg,73727,20770000
+Sleep Tight,2011,102,"Crime, Drama, Horror",7.2,Jaume Balagueró,44718,
+Horror of Dracula,1958,82,"Drama, Horror",7.2,Terence Fisher,26472,
+The Wolf Man,1941,70,"Horror, Mystery, Romance",7.2,George Waggner,28724,
+Midsommar,2019,148,"Drama, Horror, Mystery",7.1,Ari Aster,354167,27330000
+The Ring,2002,115,"Horror, Mystery",7.1,Gore Verbinski,360824,129130000
+Prey I,2022,100,"Action, Adventure, Drama",7.1,Dan Trachtenberg,207940,
+The Mist,2007,126,"Horror, Sci-Fi, Thriller",7.1,Frank Darabont,323435,25590000
+Don't Breathe,2016,88,"Crime, Horror, Thriller",7.1,Fede Alvarez,286498,89220000
+Little Shop of Horrors,1986,94,"Comedy, Horror, Musical",7.1,Frank Oz,80770,38750000
+Blade,1998,120,"Action, Horror, Sci-Fi",7.1,Stephen Norrington,285069,70090000
+Bone Tomahawk,2015,132,"Drama, Horror, Western",7.1,S. Craig Zahler,107954,
+The Invisible Man I,2020,124,"Drama, Horror, Mystery",7.1,Leigh Whannell,238588,70410000
+Tremors,1990,96,"Comedy, Horror",7.1,Ron Underwood,143452,16670000
+Planet Terror,2007,105,"Action, Comedy, Horror",7.1,Robert Rodriguez,217087,
+The Call,2020,112,"Crime, Horror, Mystery",7.1,Chung-Hyun Lee,37886,
+Don't Look Now,1973,110,"Drama, Horror, Mystery",7.1,Nicolas Roeg,58877,980000
+Let Me In I,2010,116,"Drama, Fantasy, Horror",7.1,Matt Reeves,124539,12130000
+Cube,1997,90,"Drama, Horror, Mystery",7.1,Vincenzo Natali,239015,500000
+The Frighteners,1996,110,"Comedy, Fantasy, Horror",7.1,Peter Jackson,91980,16760000
+Audition,1999,115,"Drama, Horror, Mystery",7.1,Takashi Miike,84967,
+In the Mouth of Madness,1994,95,"Drama, Fantasy, Horror",7.1,John Carpenter,74185,8950000
+The Host,2006,120,"Drama, Horror, Sci-Fi",7.1,Bong Joon Ho,127160,2200000
+The Thing from Another World,1951,87,"Horror, Sci-Fi",7.1,Christian Nyby,31634,
+Day of the Dead,1985,101,"Horror, Thriller",7.1,George A. Romero,71624,5800000
+Timecrimes,2007,92,"Horror, Mystery, Sci-Fi",7.1,Nacho Vigalondo,66167,40000
+Black Christmas,1974,98,"Horror, Mystery, Thriller",7.1,Bob Clark,44485,4050000
+A Tale of Two Sisters,2003,114,"Drama, Horror, Mystery",7.1,Jee-woon Kim,65125,
+Thirst,2009,134,"Drama, Fantasy, Horror",7.1,Park Chan-wook,49291,300000
+The Fearless Vampire Killers,1967,91,"Comedy, Horror",7.1,Roman Polanski,32778,
+Pearl,2022,103,"Drama, Horror, Thriller",7,Ti West,60574,
+Barbarian,2022,102,"Horror, Mystery, Thriller",7,Zach Cregger,150220,
+Orphan,2009,123,"Horror, Mystery, Thriller",7,Jaume Collet-Serra,240096,41600000
+Last Night in Soho,2021,116,"Drama, Horror, Mystery",7,Edgar Wright,151594,
+The Platform,2019,94,"Horror, Sci-Fi, Thriller",7,Galder Gaztelu-Urrutia,246812,
+Cloverfield,2008,85,"Action, Adventure, Horror",7,Matt Reeves,409328,80050000
+The Cabin in the Woods,2011,95,"Horror, Mystery, Thriller",7,Drew Goddard,431746,42070000
+Martyrs,2008,99,Horror,7,Pascal Laugier,100077,
+The Killing of a Sacred Deer,2017,121,"Drama, Horror, Mystery",7,Yorgos Lanthimos,164977,2290000
+World War Z,2013,116,"Action, Adventure, Horror",7,Marc Forster,688746,202360000
+Constantine,2005,121,"Action, Fantasy, Horror",7,Francis Lawrence,359071,75980000
+Pitch Black,2000,109,"Action, Horror, Sci-Fi",7,David Twohy,247313,39240000
+Hotel Transylvania,2012,91,"Animation, Adventure, Comedy",7,Genndy Tartakovsky,266508,148310000
+Hellboy II: The Golden Army,2008,120,"Action, Adventure, Fantasy",7,Guillermo del Toro,278818,75750000
+Green Room,2015,95,"Crime, Drama, Horror",7,Jeremy Saulnier,131693,3220000
+Fright Night,1985,106,"Fantasy, Horror",7,Tom Holland,74547,24920000
+Raw,2016,99,"Drama, Horror",7,Julia Ducournau,83304,510000
+Brotherhood of the Wolf,2001,142,"Action, Adventure, Drama",7,Christophe Gans,68793,11260000
+Shutter II,2004,97,"Horror, Mystery, Thriller",7,Banjong Pisanthanakun,47015,
+Thelma,2017,116,"Drama, Fantasy, Horror",7,Joachim Trier,34644,150000
+Henry: Portrait of a Serial Killer,1986,83,"Biography, Crime, Drama",7,John McNaughton,38529,610000
+Tenebrae,1982,101,"Drama, Horror, Mystery",7,Dario Argento,25691,
+Carnival of Souls,1962,78,"Horror, Mystery",7,Herk Harvey,26143,
+The Mummy,1932,73,"Fantasy, Horror",7,Karl Freund,28354,
+Doctor Strange in the Multiverse of Madness,2022,126,"Action, Adventure, Fantasy",6.9,Sam Raimi,440936,411330000
+The Black Phone,2021,103,"Horror, Thriller",6.9,Scott Derrickson,168369,90120000
+The VVitch: A New-England Folktale,2015,92,"Drama, Fantasy, Horror",6.9,Robert Eggers,277751,25140000
+Climax I,2018,97,"Drama, Horror, Music",6.9,Gaspar Noé,73695,800000
+28 Weeks Later,2007,100,"Action, Adventure, Horror",6.9,Juan Carlos Fresnadillo,284000,28640000
+Hocus Pocus,1993,96,"Comedy, Family, Fantasy",6.9,Kenny Ortega,145947,44340000
+Hellraiser,1987,94,"Horror, Thriller",6.9,Clive Barker,132887,14560000
+Near Dark,1987,94,Horror,6.9,Kathryn Bigelow,42670,3370000
+Ravenous,1999,101,"Adventure, Drama, Horror",6.9,Antonia Bird,41616,2060000
+Altered States,1980,102,"Horror, Sci-Fi, Thriller",6.9,Ken Russell,36892,19850000
+Stir of Echoes,1999,99,"Horror, Mystery, Thriller",6.9,David Koepp,84251,21130000
+Bubba Ho-Tep,2002,92,"Comedy, Fantasy, Horror",6.9,Don Coscarelli,50182,2000000
+A Girl Walks Home Alone at Night,2014,101,"Drama, Horror, Romance",6.9,Ana Lily Amirpour,37115,
+The Monster Squad,1987,79,"Action, Comedy, Fantasy",6.9,Fred Dekker,33711,3770000
+Creature from the Black Lagoon,1954,79,"Horror, Sci-Fi",6.9,Jack Arnold,32344,1300000
+Troll Hunter,2010,103,"Drama, Fantasy, Horror",6.9,André Øvredal,77389,250000
+Shadow of the Vampire,2000,92,"Drama, Horror",6.9,E. Elias Merhige,43072,8290000
+Frankenweenie,2012,87,"Animation, Comedy, Drama",6.9,Tim Burton,112066,35290000
+Bhoot Police,2021,129,"Comedy, Horror",6.9,Pavan Kirpalani,26993,
+Nope,2022,130,"Horror, Mystery, Sci-Fi",6.8,Jordan Peele,232097,123280000
+Bones and All,2022,131,"Drama, Horror, Romance",6.8,Luca Guadagnino,43064,
+Ready or Not I,2019,95,"Action, Comedy, Horror",6.8,Matt Bettinelli-Olpin,164600,28710000
+Insidious I,2010,103,"Horror, Mystery, Thriller",6.8,James Wan,319707,54010000
+It Follows,2014,100,"Horror, Mystery, Thriller",6.8,David Robert Mitchell,253503,14670000
+Annihilation I,2018,115,"Adventure, Drama, Horror",6.8,Alex Garland,340306,32730000
+Sinister,2012,110,"Horror, Mystery, Thriller",6.8,Scott Derrickson,264038,48090000
+Us II,2019,116,"Horror, Mystery, Thriller",6.8,Jordan Peele,316383,175080000
+The House That Jack Built,2018,152,"Crime, Drama, Horror",6.8,Lars von Trier,83053,90000
+The Babadook,2014,94,"Horror, Mystery",6.8,Jennifer Kent,234393,920000
+The Autopsy of Jane Doe,2016,86,"Horror, Mystery, Thriller",6.8,André Øvredal,127065,10000
+Warm Bodies,2013,98,"Comedy, Horror, Romance",6.8,Jonathan Levine,236475,66380000
+Hellboy,2004,122,"Action, Adventure, Fantasy",6.8,Guillermo del Toro,338908,59620000
+Odd Thomas,2013,97,"Comedy, Fantasy, Horror",6.8,Stephen Sommers,55393,
+Exam,2009,101,"Crime, Horror, Mystery",6.8,Stuart Hazeldine,120312,
+1408,2007,104,"Fantasy, Horror, Mystery",6.8,Mikael Håfström,282365,71990000
+The Fog,1980,89,"Horror, Thriller",6.8,John Carpenter,78302,21380000
+Creepshow,1982,120,"Comedy, Fantasy, Horror",6.8,George A. Romero,50496,21030000
+Ginger Snaps,2000,108,"Drama, Fantasy, Horror",6.8,John Fawcett,49563,
+The Witches,1990,91,"Adventure, Comedy, Family",6.8,Nicolas Roeg,52433,10360000
+eXistenZ,1999,97,"Horror, Mystery, Sci-Fi",6.8,David Cronenberg,103653,2840000
+Dog Soldiers,2002,105,"Action, Horror, Thriller",6.8,Neil Marshall,62964,
+Dead Calm,1989,96,"Horror, Thriller",6.8,Phillip Noyce,42222,7830000
+Shin Godzilla,2016,120,"Action, Drama, Horror",6.8,Hideaki Anno,29845,1920000
+Zombie,1979,91,Horror,6.8,Lucio Fulci,29370,
+The Brood,1979,92,"Horror, Sci-Fi",6.8,David Cronenberg,32397,
+Night of the Living Dead,1990,92,Horror,6.8,Tom Savini,43906,5840000
+House on Haunted Hill,1959,75,"Crime, Horror, Mystery",6.8,William Castle,29039,
+Stonehearst Asylum,2014,112,"Drama, Horror, Mystery",6.8,Brad Anderson,58532,
+Under the Shadow,2016,84,"Drama, Fantasy, Horror",6.8,Babak Anvari,28891,30000
+Dead Snow 2: Red vs. Dead,2014,100,"Action, Comedy, Fantasy",6.8,Tommy Wirkola,25807,
+Evil Dead Rise,2023,96,Horror,6.7,Lee Cronin,78836,
+Suspiria I,2018,152,"Drama, Fantasy, Horror",6.7,Luca Guadagnino,84786,2470000
+Eden Lake,2008,91,"Horror, Thriller",6.7,James Watkins,89408,10000
+Final Destination,2000,98,"Horror, Thriller",6.7,James Wong,266158,53330000
+Fresh,2022,114,"Horror, Thriller",6.7,Mimi Cave,63592,
+Zombieland: Double Tap,2019,99,"Action, Comedy, Horror",6.7,Ruben Fleischer,189496,73120000
+The Devil's Rejects,2005,107,"Crime, Horror, Western",6.7,Rob Zombie,103048,17040000
+Pandorum,2009,108,"Action, Horror, Mystery",6.7,Christian Alvart,155042,10330000
+Christine,1983,110,"Horror, Thriller",6.7,John Carpenter,87453,21200000
+Marrowbone,2017,110,"Adventure, Drama, Horror",6.7,Sergio G. Sánchez,35303,
+The Gift,2000,111,"Drama, Fantasy, Horror",6.7,Sam Raimi,72059,12010000
+Blade II,2002,117,"Action, Horror, Sci-Fi",6.7,Guillermo del Toro,225970,82350000
+High Tension,2003,91,Horror,6.7,Alexandre Aja,74795,3680000
+Candyman,1992,99,"Horror, Thriller",6.7,Bernard Rose,95591,25790000
+Return to Oz,1985,113,"Adventure, Family, Fantasy",6.7,Walter Murch,28909,
+Saint Maud,2019,84,"Drama, Horror, Mystery",6.7,Rose Glass,41913,
+From Hell,2001,122,"Horror, Mystery, Thriller",6.7,Albert Hughes,159793,31600000
+Fear Street: Part Two - 1978,2021,109,"Drama, Horror, Mystery",6.7,Leigh Janiak,69358,
+Scanners,1981,103,"Horror, Sci-Fi, Thriller",6.7,David Cronenberg,58736,14230000
+The Exorcism of Emily Rose,2005,119,"Drama, Horror, Thriller",6.7,Scott Derrickson,134571,75070000
+Summer of 84,2018,105,"Drama, Horror, Mystery",6.7,François Simard,43321,90000
+Inside,2007,82,Horror,6.7,Alexandre Bustillo,42811,
+Trick 'r Treat,2007,82,"Comedy, Horror",6.7,Michael Dougherty,97225,
+Phenomena,1985,116,"Crime, Horror, Mystery",6.7,Dario Argento,28456,
+Where the Wild Things Are,2009,101,"Adventure, Drama, Family",6.7,Spike Jonze,106812,77230000
+Goodnight Mommy,2014,99,"Horror, Mystery, Thriller",6.7,Severin Fiala,57113,1170000
+Spring I,2014,109,"Horror, Romance, Sci-Fi",6.7,Justin Benson,29941,50000
+Tales from the Crypt: Demon Knight,1995,92,"Action, Fantasy, Horror",6.7,Ernest R. Dickerson,25144,21090000
+Ju-on: The Grudge,2002,92,Horror,6.7,Takashi Shimizu,46324,330000
+Turbo Kid,2015,93,"Action, Adventure, Comedy",6.7,François Simard,28926,50000
+Cronos,1992,94,"Drama, Fantasy, Horror",6.7,Guillermo del Toro,31873,620000
+Housebound,2014,107,"Comedy, Horror, Mystery",6.7,Gerard Johnstone,36448,
+Dark Water,2002,101,"Drama, Horror, Mystery",6.7,Hideo Nakata,33695,
+Los ojos de Julia,2010,118,"Horror, Mystery, Thriller",6.7,Guillem Morales,36473,
+Fido,2006,93,"Comedy, Drama, Horror",6.7,Andrew Currie,29699,300000
+X II,2022,105,"Horror, Mystery, Thriller",6.6,Ti West,132694,
+Scream VI,2023,122,"Horror, Mystery, Thriller",6.6,Matt Bettinelli-Olpin,81797,
+The Pale Blue Eye,2022,128,"Crime, Horror, Mystery",6.6,Scott Cooper,107713,
+Bird Box,2018,124,"Horror, Mystery, Sci-Fi",6.6,Susanne Bier,360116,
+Mother!,2017,121,"Drama, Horror, Mystery",6.6,Darren Aronofsky,236605,17800000
+Event Horizon,1997,96,"Horror, Sci-Fi, Thriller",6.6,Paul W.S. Anderson,188518,26670000
+Speak No Evil,2022,97,"Drama, Horror, Thriller",6.6,Christian Tafdrup,27616,
+Life I,2017,104,"Horror, Sci-Fi, Thriller",6.6,Daniel Espinosa,240377,30230000
+Resident Evil,2002,100,"Action, Horror, Sci-Fi",6.6,Paul W.S. Anderson,279094,40120000
+You're Next,2011,95,"Horror, Thriller",6.6,Adam Wingard,104174,18470000
+The Faculty,1998,104,"Horror, Mystery, Sci-Fi",6.6,Robert Rodriguez,128887,40060000
+Glass,2019,129,"Drama, Horror, Sci-Fi",6.6,M. Night Shyamalan,254065,111050000
+Drag Me to Hell,2009,99,Horror,6.6,Sam Raimi,210357,42100000
+30 Days of Night,2007,113,"Action, Adventure, Horror",6.6,David Slade,182693,39570000
+What Lies Beneath,2000,130,"Drama, Horror, Mystery",6.6,Robert Zemeckis,130856,155460000
+Death Becomes Her,1992,104,"Comedy, Fantasy, Horror",6.6,Robert Zemeckis,124437,58420000
+Child's Play,1988,87,"Horror, Thriller",6.6,Tom Holland,108877,33240000
+The Invitation I,2015,100,"Drama, Horror, Mystery",6.6,Karyn Kusama,114221,230000
+Happy Death Day,2017,96,"Comedy, Horror, Mystery",6.6,Christopher Landon,151732,55680000
+Overlord,2018,110,"Action, Horror, Sci-Fi",6.6,Julius Avery,102874,21700000
+Hush I,2016,82,"Horror, Thriller",6.6,Mike Flanagan,144505,
+Prince of Darkness,1987,102,Horror,6.6,John Carpenter,47009,14180000
+Saw II,2005,93,"Horror, Mystery",6.6,Darren Lynn Bousman,260764,87040000
+From Beyond,1986,85,"Horror, Sci-Fi",6.6,Stuart Gordon,28213,1260000
+A Nightmare on Elm Street 3: Dream Warriors,1987,96,"Fantasy, Horror",6.6,Chuck Russell,85536,44790000
+Hotel Transylvania 2,2015,89,"Animation, Adventure, Comedy",6.6,Genndy Tartakovsky,134482,169700000
+The Hunger,1983,97,"Drama, Horror",6.6,Tony Scott,27761,5980000
+The Blob,1988,95,"Horror, Sci-Fi, Thriller",6.6,Chuck Russell,40349,8250000
+The Loved Ones,2009,84,"Crime, Horror",6.6,Sean Byrne,42492,
+Psycho II,1983,113,"Crime, Horror, Mystery",6.6,Richard Franklin,28989,34730000
+May,2002,93,"Comedy, Drama, Horror",6.6,Lucky McKee,38779,150000
+Phantasm,1979,89,"Horror, Sci-Fi",6.6,Don Coscarelli,39050,11990000
+Rare Exports,2010,84,"Adventure, Fantasy, Horror",6.6,Jalmari Helander,30491,260000
+The Girl with All the Gifts,2016,111,"Action, Adventure, Drama",6.6,Colm McCarthy,62316,
+Fear Street: Part Three - 1666,2021,114,"Horror, Mystery",6.6,Leigh Janiak,57741,
+Demons,1985,88,Horror,6.6,Lamberto Bava,25101,
+The Eye,2002,99,"Fantasy, Horror, Mystery",6.6,Danny Pang,29645,510000
+Smile V,2022,115,"Horror, Mystery, Thriller",6.5,Parker Finn,130696,
+Evil Dead,2013,91,Horror,6.5,Fede Alvarez,187737,54240000
+It Chapter Two,2019,169,"Drama, Fantasy, Horror",6.5,Andy Muschietti,281137,211590000
+Gerald's Game,2017,103,"Drama, Horror, Thriller",6.5,Mike Flanagan,117039,
+The Hunt II,2020,90,"Action, Horror, Thriller",6.5,Craig Zobel,120400,5810000
+Silent Hill,2006,125,"Horror, Mystery",6.5,Christophe Gans,236727,46980000
+Antichrist,2009,108,"Drama, Horror, Thriller",6.5,Lars von Trier,131305,400000
+Insidious: Chapter 2,2013,106,"Horror, Mystery, Thriller",6.5,James Wan,177423,83590000
+The Last House on the Left,2009,110,"Horror, Thriller",6.5,Dennis Iliadis,96680,32750000
+The Night House,2020,107,"Horror, Mystery, Thriller",6.5,David Bruckner,60235,
+Host II,2020,57,"Horror, Mystery",6.5,Rob Savage,34122,
+Mandy I,2018,121,"Action, Fantasy, Horror",6.5,Panos Cosmatos,83932,1210000
+The Girl Next Door,2007,91,"Crime, Drama, Horror",6.5,Gregory Wilson,27817,
+Titane,2021,108,"Drama, Horror, Sci-Fi",6.5,Julia Ducournau,50494,
+Slither,2006,95,"Comedy, Horror, Sci-Fi",6.5,James Gunn,85847,7770000
+The Blair Witch Project,1999,81,"Horror, Mystery",6.5,Daniel Myrick,271349,140540000
+The Endless I,2017,111,"Drama, Fantasy, Horror",6.5,Justin Benson,46030,270000
+Oculus,2013,104,"Horror, Mystery, Thriller",6.5,Mike Flanagan,133932,27700000
+The Howling,1981,91,Horror,6.5,Joe Dante,38157,17990000
+Annabelle: Creation,2017,109,"Horror, Mystery, Thriller",6.5,David F. Sandberg,141513,102090000
+Possessor,2020,103,"Horror, Mystery, Sci-Fi",6.5,Brandon Cronenberg,41017,
+Crimson Peak,2015,119,"Drama, Horror, Mystery",6.5,Guillermo del Toro,153040,31090000
+Halloween I,2018,106,"Crime, Horror, Thriller",6.5,David Gordon Green,160731,159340000
+Pet Sematary,1989,103,"Fantasy, Horror, Thriller",6.5,Mary Lambert,109162,57470000
+The Final Girls,2015,91,"Comedy, Fantasy, Horror",6.5,Todd Strauss-Schulson,48852,
+Arachnophobia,1990,109,"Comedy, Horror, Thriller",6.5,Frank Marshall,72630,53210000
+The Crazies,2010,101,"Horror, Thriller",6.5,Breck Eisner,125273,39120000
+His House,2020,93,"Drama, Horror, Thriller",6.5,Remi Weekes,45081,
+The Skeleton Key,2005,104,"Drama, Horror, Mystery",6.5,Iain Softley,118968,47810000
+Better Watch Out II,2016,89,"Comedy, Horror, Thriller",6.5,Chris Peckover,42119,20000
+The Exorcist III,1990,110,"Drama, Horror, Mystery",6.5,William Peter Blatty,34521,26100000
+The Witches of Eastwick,1987,118,"Comedy, Fantasy, Horror",6.5,George Miller,73547,63770000
+Halloween II,1981,92,Horror,6.5,Rick Rosenthal,96004,25530000
+Flatliners,1990,115,"Drama, Horror, Sci-Fi",6.5,Joel Schumacher,90146,61490000
+Dead End I,2003,85,"Adventure, Horror, Mystery",6.5,Jean-Baptiste Andrea,30416,
+Byzantium,2012,118,"Drama, Fantasy, Horror",6.5,Neil Jordan,44832,80000
+Time Lapse,2014,104,"Horror, Mystery, Sci-Fi",6.5,Bradley King,47416,
+Bad Taste,1987,91,"Comedy, Horror, Sci-Fi",6.5,Peter Jackson,48108,
+Pontypool,2008,93,"Horror, Sci-Fi",6.5,Bruce McDonald,33734,
+[Rec]²,2009,85,"Horror, Thriller",6.5,Jaume Balagueró,75857,30000
+Sightseers,2012,88,"Adventure, Comedy, Crime",6.5,Ben Wheatley,29544,40000
+Renfield,2023,93,"Comedy, Fantasy, Horror",6.4,Chris McKay,47540,
+M3GAN,2022,102,"Horror, Sci-Fi, Thriller",6.4,Gerard Johnstone,106598,93880000
+Alien: Covenant,2017,122,"Horror, Sci-Fi, Thriller",6.4,Ridley Scott,290465,74260000
+Escape Room I,2019,99,"Action, Adventure, Horror",6.4,Adam Robitel,131872,57010000
+Friday the 13th,1980,95,"Horror, Mystery, Thriller",6.4,Sean S. Cunningham,146665,39750000
+The Craft,1996,101,"Drama, Fantasy, Horror",6.4,Andrew Fleming,99986,24880000
+The Hills Have Eyes,2006,107,"Horror, Thriller",6.4,Alexandre Aja,177032,41780000
+Alien³,1992,114,"Action, Horror, Sci-Fi",6.4,David Fincher,308197,55470000
+A Cure for Wellness,2016,146,"Drama, Fantasy, Horror",6.4,Gore Verbinski,104306,8110000
+The Cell,2000,107,"Crime, Horror, Sci-Fi",6.4,Tarsem Singh,105734,61330000
+Revenge II,2017,108,"Action, Drama, Horror",6.4,Coralie Fargeat,45825,100000
+Fright Night,2011,106,"Comedy, Horror",6.4,Craig Gillespie,109829,18300000
+Twilight Zone: The Movie,1983,101,"Horror, Sci-Fi",6.4,Joe Dante,39519,29500000
+Incident in a Ghostland,2018,91,"Drama, Horror, Mystery",6.4,Pascal Laugier,35958,
+The Purge: Anarchy,2014,103,"Action, Horror, Sci-Fi",6.4,James DeMonaco,156986,71960000
+Gremlins 2: The New Batch,1990,106,"Comedy, Fantasy, Horror",6.4,Joe Dante,108188,41480000
+Black Death,2010,102,"Action, Drama, History",6.4,Christopher Smith,49744,20000
+The People Under the Stairs,1991,102,"Comedy, Horror, Mystery",6.4,Wes Craven,37305,24200000
+Horns,2013,120,"Comedy, Crime, Drama",6.4,Alexandre Aja,85762,160000
+The Serpent and the Rainbow,1988,98,"Fantasy, Horror",6.4,Wes Craven,26707,19600000
+Tale of Tales,2015,134,"Drama, Fantasy, Horror",6.4,Matteo Garrone,29867,80000
+Daybreakers,2009,98,"Action, Horror, Sci-Fi",6.4,Michael Spierig,131778,30100000
+The Woman in Black,2012,95,"Drama, Fantasy, Horror",6.4,James Watkins,187998,54330000
+Silver Bullet,1985,95,Horror,6.4,Daniel Attias,29605,5400000
+Sputnik,2020,113,"Drama, Horror, Mystery",6.4,Egor Abramenko,25687,
+Kill List,2011,95,"Action, Crime, Horror",6.4,Ben Wheatley,42875,30000
+New Nightmare,1994,112,"Fantasy, Horror, Mystery",6.4,Wes Craven,61174,18090000
+Repo! The Genetic Opera,2008,98,"Horror, Musical, Sci-Fi",6.4,Darren Lynn Bousman,25810,140000
+The Mothman Prophecies,2002,119,"Drama, Horror, Mystery",6.4,Mark Pellington,82494,35750000
+Session 9,2001,97,"Drama, Horror, Mystery",6.4,Brad Anderson,60761,380000
+Unsane,2018,98,"Drama, Horror, Mystery",6.4,Steven Soderbergh,48245,7730000
+Creep 2,2017,78,"Crime, Drama, Horror",6.4,Patrick Brice,29300,
+Hellbound: Hellraiser II,1988,97,"Horror, Thriller",6.4,Tony Randel,53253,11090000
+The Awakening I,2011,102,"Drama, Horror, Mystery",6.4,Nick Murphy,67806,
+Ghost Stories I,2017,98,"Drama, Horror",6.4,Jeremy Dyson,35682,140000
+The Prophecy,1995,98,"Action, Crime, Drama",6.4,Gregory Widen,32198,16120000
+Severance,2006,96,"Comedy, Horror",6.4,Christopher Smith,39807,140000
+Them,2006,77,"Horror, Thriller",6.4,David Moreau,31377,
+Stake Land,2010,98,"Drama, Horror, Sci-Fi",6.4,Jim Mickle,43421,20000
+Night Watch,2004,114,"Action, Fantasy, Horror",6.4,Timur Bekmambetov,54703,1490000
+Resident Evil: Degeneration,2008,98,"Animation, Action, Horror",6.4,Makoto Kamiya,32199,
+Day Watch,2006,132,"Action, Fantasy, Horror",6.4,Timur Bekmambetov,34927,450000
+Scream I,2022,114,"Horror, Mystery, Thriller",6.3,Matt Bettinelli-Olpin,138199,81640000
+Under the Skin I,2013,108,"Drama, Horror, Mystery",6.3,Jonathan Glazer,149804,2610000
+Watcher I,2022,96,"Drama, Horror, Thriller",6.3,Chloe Okuno,32756,
+Scream 2,1997,120,"Horror, Mystery",6.3,Wes Craven,197955,101360000
+The Babysitter I,2017,85,"Comedy, Horror",6.3,McG,100574,
+The Ritual I,2017,94,"Horror, Mystery, Thriller",6.3,David Bruckner,108985,
+Lights Out II,2016,81,"Horror, Mystery",6.3,David F. Sandberg,135897,67270000
+The Conjuring: The Devil Made Me Do It,2021,112,"Horror, Mystery, Thriller",6.3,Michael Chaves,125072,65630000
+Scouts Guide to the Zombie Apocalypse,2015,93,"Action, Comedy, Horror",6.3,Christopher Landon,52616,3640000
+Freaky,2020,102,"Comedy, Horror, Thriller",6.3,Christopher Landon,65509,
+Lamb,2021,106,"Drama, Fantasy, Horror",6.3,Valdimar Jóhannsson,32600,
+The Shallows,2016,86,"Action, Drama, Horror",6.3,Jaume Collet-Serra,138096,55120000
+Paranormal Activity,2007,86,"Horror, Mystery",6.3,Oren Peli,247532,107920000
+Creep I,2014,77,"Horror, Thriller",6.3,Patrick Brice,60918,
+Devil,2010,80,"Horror, Mystery, Thriller",6.3,John Erick Dowdle,151728,33580000
+Goosebumps,2015,103,"Adventure, Comedy, Fantasy",6.3,Rob Letterman,91906,80080000
+Cargo I,2017,105,"Drama, Horror, Sci-Fi",6.3,Ben Howling,45890,
+Predator 2,1990,108,"Action, Horror, Sci-Fi",6.3,Stephen Hopkins,174998,30670000
+The Collector I,2009,90,"Action, Horror, Thriller",6.3,Marcus Dunstan,68646,7710000
+Haunt I,2019,92,"Horror, Thriller",6.3,Scott Beck,32410,
+Hotel Transylvania 3: Summer Vacation,2018,97,"Animation, Adventure, Comedy",6.3,Genndy Tartakovsky,79162,167510000
+#Alive,2020,98,"Action, Drama, Horror",6.3,Il Cho,43683,
+Apostle,2018,130,"Drama, Fantasy, Horror",6.3,Gareth Evans,55806,
+The Hills Have Eyes,1977,90,"Horror, Thriller",6.3,Wes Craven,37196,25000000
+Lake Mungo,2008,87,"Drama, Horror, Mystery",6.3,Joel Anderson,25556,
+Dark Skies,2013,97,"Horror, Sci-Fi, Thriller",6.3,Scott Stewart,77749,17410000
+The House of the Devil,2009,95,"Horror, Mystery",6.3,Ti West,49019,100000
+Frankenstein,1994,123,"Drama, Horror, Romance",6.3,Kenneth Branagh,57239,22010000
+The Voices,2014,103,"Comedy, Crime, Horror",6.3,Marjane Satrapi,59828,
+Berlin Syndrome,2017,116,"Drama, Horror, Mystery",6.3,Cate Shortland,26480,30000
+The Uninvited,2009,87,"Drama, Fantasy, Horror",6.3,Charles Guard,82545,28570000
+Cat's Eye,1985,94,"Comedy, Horror, Thriller",6.3,Lewis Teague,26850,13090000
+Underworld: Awakening,2012,88,"Action, Fantasy, Horror",6.3,Måns Mårlind,157941,62320000
+The Vanishing,1993,109,"Drama, Horror, Mystery",6.3,George Sluizer,26987,14540000
+Mindhunters,2004,106,"Crime, Horror, Thriller",6.3,Renny Harlin,62706,4480000
+The Bar,2017,102,"Horror, Thriller",6.3,Álex de la Iglesia,28011,
+The Blob,1958,86,"Horror, Sci-Fi",6.3,Irvin S. Yeaworth Jr.,27852,
+Screamers,1995,108,"Horror, Sci-Fi, Thriller",6.3,Christian Duguay,28447,5780000
+Dead Snow,2009,91,"Comedy, Fantasy, Horror",6.3,Tommy Wirkola,68631,40000
+13 Sins,2014,93,"Horror, Thriller",6.3,Daniel Stamm,37811,10000
+Tideland,2005,120,"Drama, Fantasy, Horror",6.3,Terry Gilliam,34068,70000
+John Dies at the End,2012,99,"Comedy, Fantasy, Horror",6.3,Don Coscarelli,39473,140000
+Bodies Bodies Bodies,2022,94,"Comedy, Horror, Thriller",6.2,Halina Reijn,51654,
+Scream 4,2011,111,"Comedy, Horror, Mystery",6.2,Wes Craven,162144,38180000
+Malignant I,2021,111,"Crime, Horror, Mystery",6.2,James Wan,98740,
+The Empty Man,2020,137,"Drama, Horror, Mystery",6.2,David Prior,33524,
+I Spit on Your Grave,2010,108,"Horror, Thriller",6.2,Steven R. Monroe,88102,90000
+The Visit I,2015,94,"Horror, Mystery, Thriller",6.2,M. Night Shyamalan,142097,65210000
+Jeepers Creepers,2001,90,"Horror, Mystery",6.2,Victor Salva,135446,37900000
+The Thing I,2011,103,"Horror, Mystery, Sci-Fi",6.2,Matthijs van Heijningen Jr.,139897,16930000
+Mama I,2013,100,"Fantasy, Horror, Thriller",6.2,Andy Muschietti,186159,71630000
+"As Above, So Below",2014,93,"Horror, Mystery, Thriller",6.2,John Erick Dowdle,101124,21200000
+Synchronic,2019,102,"Drama, Horror, Mystery",6.2,Justin Benson,35972,
+Wolf Creek,2005,99,"Horror, Thriller",6.2,Greg McLean,75604,16190000
+Dark Shadows,2012,113,"Comedy, Fantasy, Horror",6.2,Tim Burton,273371,79730000
+Alien: Resurrection,1997,109,"Action, Horror, Sci-Fi",6.2,Jean-Pierre Jeunet,254632,47750000
+Sleepaway Camp,1983,84,Horror,6.2,Robert Hiltzik,35167,11000000
+1922,2017,102,"Crime, Drama, Horror",6.2,Zak Hilditch,67579,
+Dracula Untold,2014,92,"Action, Drama, Fantasy",6.2,Gary Shore,201494,56280000
+Final Destination 2,2003,90,"Horror, Thriller",6.2,David R. Ellis,174051,46960000
+The Texas Chainsaw Massacre,2003,98,"Crime, Horror",6.2,Marcus Nispel,147172,80570000
+Fear Street: Part One - 1994,2021,107,"Drama, Horror, Mystery",6.2,Leigh Janiak,86732,
+Scary Stories to Tell in the Dark,2019,108,"Adventure, Horror, Mystery",6.2,André Øvredal,80434,68950000
+Color Out of Space,2019,111,"Horror, Mystery, Sci-Fi",6.2,Richard Stanley,52020,
+Deliver Us from Evil I,2014,118,"Action, Adventure, Crime",6.2,Scott Derrickson,81017,30580000
+It Comes at Night,2017,91,"Drama, Horror, Mystery",6.2,Trey Edward Shults,98054,13990000
+Verónica I,2017,105,Horror,6.2,Paco Plaza,44074,
+Case 39,2009,109,"Horror, Mystery, Thriller",6.2,Christian Alvart,90324,13250000
+Ouija: Origin of Evil,2016,99,"Drama, Horror, Mystery",6.2,Mike Flanagan,68575,35140000
+The Toxic Avenger,1984,82,"Action, Comedy, Horror",6.2,Michael Herz,30117,
+Killer Klowns from Outer Space,1988,88,"Comedy, Horror, Sci-Fi",6.2,Stephen Chiodo,41538,15630000
+Feast,2005,95,"Action, Comedy, Horror",6.2,John Gulager,32911,50000
+Rogue,2007,99,"Action, Drama, Horror",6.2,Greg McLean,32128,10000
+Resident Evil: Extinction,2007,94,"Action, Horror, Sci-Fi",6.2,Russell Mulcahy,200494,50650000
+Idle Hands,1999,92,"Comedy, Fantasy, Horror",6.2,Rodman Flender,45083,4000000
+The Perfection,2018,90,"Drama, Horror, Music",6.2,Richard Shepard,46777,
+Saw III,2006,108,"Horror, Mystery, Thriller",6.2,Darren Lynn Bousman,199970,80240000
+American Mary,2012,103,"Drama, Horror",6.2,Jen Soska,26866,
+Before I Wake,2016,97,"Drama, Fantasy, Horror",6.2,Mike Flanagan,49193,
+Vacancy,2007,85,"Horror, Thriller",6.2,Nimród Antal,104096,19360000
+Wolf,1994,125,"Drama, Horror, Romance",6.2,Mike Nichols,58267,65010000
+Land of the Dead,2005,93,"Horror, Sci-Fi, Thriller",6.2,George A. Romero,98740,20700000
+Frontier(s),2007,108,Horror,6.2,Xavier Gens,27825,
+Stigmata,1999,103,"Horror, Mystery",6.2,Rupert Wainwright,70383,50050000
+Happy Death Day 2U,2019,100,"Comedy, Horror, Mystery",6.2,Christopher Landon,79669,28150000
+Damien: Omen II,1978,107,Horror,6.2,Don Taylor,33729,3880000
+Pumpkinhead,1988,86,"Fantasy, Horror",6.2,Stan Winston,25833,4390000
+Krampus I,2015,98,"Comedy, Drama, Fantasy",6.2,Michael Dougherty,79013,42590000
+Needful Things,1993,120,"Crime, Drama, Fantasy",6.2,Fraser C. Heston,26291,15190000
+Open Grave,2013,102,"Horror, Mystery, Sci-Fi",6.2,Gonzalo López-Gallego,30633,
+The Pope's Exorcist,2023,103,"Horror, Thriller",6.1,Julius Avery,39847,
+Knock at the Cabin,2023,100,"Horror, Mystery, Thriller",6.1,M. Night Shyamalan,79345,
+Terrifier 2,2022,138,Horror,6.1,Damien Leone,36262,
+Infinity Pool,2023,117,"Crime, Horror, Mystery",6.1,Brandon Cronenberg,31699,
+Men,2022,100,"Drama, Fantasy, Horror",6.1,Alex Garland,51808,
+We Have a Ghost,2023,126,"Adventure, Comedy, Family",6.1,Christopher Landon,26782,
+Wrong Turn I,2003,84,"Horror, Thriller",6.1,Rob Schmidt,125830,15420000
+Lifeforce,1985,101,"Action, Horror, Mystery",6.1,Tobe Hooper,27500,11600000
+The Neon Demon,2016,117,"Horror, Thriller",6.1,Nicolas Winding Refn,99889,1330000
+Brightburn,2019,90,"Drama, Horror, Mystery",6.1,David Yarovesky,102749,17300000
+The Strangers,2008,86,"Horror, Mystery, Thriller",6.1,Bryan Bertino,136286,52600000
+Day Shift,2022,113,"Action, Comedy, Fantasy",6.1,J.J. Perry,83554,
+Insidious: Chapter 3,2015,97,"Horror, Mystery, Thriller",6.1,Leigh Whannell,109420,52220000
+Friday the 13th Part 2,1981,87,"Horror, Mystery, Thriller",6.1,Steve Miner,72452,21720000
+Crawl I,2019,87,"Action, Adventure, Horror",6.1,Alexandre Aja,88669,39010000
+Hansel & Gretel: Witch Hunters,2013,88,"Action, Fantasy, Horror",6.1,Tommy Wirkola,211488,55700000
+Blood Red Sky,2021,121,"Action, Adventure, Drama",6.1,Peter Thorwarth,51766,
+Resident Evil: Apocalypse,2004,94,"Action, Horror, Sci-Fi",6.1,Alexander Witt,204741,51200000
+Maniac,2012,89,"Horror, Thriller",6.1,Franck Khalfoun,39045,20000
+The Oxford Murders,2008,108,"Crime, Horror, Mystery",6.1,Álex de la Iglesia,29932,
+The Belko Experiment,2016,89,"Horror, Thriller",6.1,Greg McLean,54266,10160000
+Dead Silence,2007,89,"Horror, Mystery, Thriller",6.1,James Wan,98073,16810000
+Mirrors I,2008,110,"Horror, Mystery",6.1,Alexandre Aja,110546,30690000
+The Amityville Horror,1979,117,Horror,6.1,Stuart Rosenberg,41808,86430000
+Critters,1986,86,"Comedy, Horror, Sci-Fi",6.1,Stephen Herek,37388,13170000
+Deep Rising,1998,106,"Action, Adventure, Horror",6.1,Stephen Sommers,39064,11200000
+Grave Encounters,2011,92,"Horror, Mystery",6.1,Colin Minihan,60845,
+Vampires,1998,108,"Action, Horror, Thriller",6.1,John Carpenter,61502,20240000
+House,1985,93,"Comedy, Fantasy, Horror",6.1,Steve Miner,28520,19440000
+Cujo,1983,93,"Horror, Thriller",6.1,Lewis Teague,48166,21200000
+The Collection II,2012,82,"Action, Adventure, Horror",6.1,Marcus Dunstan,51960,12840000
+Red State,2011,88,"Action, Crime, Horror",6.1,Kevin Smith,65843,1100000
+Splinter I,2008,82,"Crime, Horror, Sci-Fi",6.1,Toby Wilkins,39450,
+Bug,2006,102,"Drama, Horror, Thriller",6.1,William Friedkin,36331,7010000
+Solomon Kane,2009,104,"Action, Adventure, Fantasy",6.1,M.J. Bassett,74932,
+Hobo with a Shotgun,2011,86,"Action, Comedy, Horror",6.1,Jason Eisener,47548,700000
+Hellraiser,2022,121,"Horror, Mystery, Thriller",6,David Bruckner,42407,
+Don't Breathe 2,2021,98,"Action, Crime, Horror",6,Rodo Sayagues,63822,32640000
+The Woman I,2011,101,"Drama, Horror, Thriller",6,Lucky McKee,25113,
+Mr. Harrigan's Phone,2022,104,"Drama, Horror, Mystery",6,John Lee Hancock,34530,
+The Lodge,2019,108,"Drama, Horror, Mystery",6,Severin Fiala,51924,
+Hotel Transylvania: Transformania,2022,87,"Animation, Adventure, Comedy",6,Derek Drymon,34432,
+6 Souls,2010,112,"Horror, Thriller",6,Måns Mårlind,35364,
+House of 1000 Corpses,2003,89,Horror,6,Rob Zombie,89420,12630000
+Halloween,2007,109,Horror,6,Rob Zombie,125977,58270000
+The Taking of Deborah Logan,2014,90,"Horror, Mystery, Thriller",6,Adam Robitel,35691,
+The Boy,2016,97,"Horror, Mystery, Thriller",6,William Brent Bell,97224,35820000
+Friday the 13th: The Final Chapter,1984,91,"Horror, Thriller",6,Joseph Zito,55244,32980000
+The Midnight Meat Train,2008,100,"Horror, Mystery, Thriller",6,Ryûhei Kitamura,67602,80000
+The Purge: Election Year,2016,108,"Action, Horror, Sci-Fi",6,James DeMonaco,105370,79210000
+Circle II,2015,87,"Drama, Horror, Mystery",6,Aaron Hann,61323,
+Unfriended: Dark Web,2018,92,"Horror, Mystery, Thriller",6,Stephen Susco,35242,8780000
+Mimic,1997,105,"Horror, Sci-Fi",6,Guillermo del Toro,53560,25480000
+Friday the 13th Part VI: Jason Lives,1986,86,"Horror, Thriller",6,Tom McLoughlin,47804,19470000
+Captive State,2019,109,"Action, Horror, Sci-Fi",6,Rupert Wyatt,55880,5960000
+Saw VI,2009,90,"Horror, Mystery, Thriller",6,Kevin Greutert,116425,27690000
+Creepshow 2,1987,92,"Fantasy, Horror",6,Michael Gornick,27039,14000000
+The Rite,2011,114,"Drama, Horror, Mystery",6,Mikael Håfström,100541,33050000
+Firestarter,1984,114,"Action, Horror, Sci-Fi",6,Mark L. Lester,35640,15100000
+V/H/S/2,2013,96,"Horror, Sci-Fi",6,Simon Barrett,41967,20000
+Relic,2020,89,"Drama, Horror, Mystery",6,Natalie Erika James,28230,
+Crimes of the Future,2022,107,"Drama, Horror, Sci-Fi",5.9,David Cronenberg,35488,
+Orphan: First Kill,2022,99,"Crime, Drama, Horror",5.9,William Brent Bell,40062,
+Hostel,2005,94,Horror,5.9,Eli Roth,185172,47330000
+Underwater,2020,95,"Action, Horror, Sci-Fi",5.9,William Eubank,88253,17290000
+Vivarium,2019,97,"Horror, Mystery, Sci-Fi",5.9,Lorcan Finnegan,64794,
+Abraham Lincoln: Vampire Hunter,2012,105,"Action, Fantasy, Horror",5.9,Timur Bekmambetov,158657,37520000
+Candyman,2021,91,"Horror, Thriller",5.9,Nia DaCosta,70762,61190000
+The Last House on the Left,1972,84,"Crime, Horror, Thriller",5.9,Wes Craven,38780,3100000
+The Amityville Horror,2005,90,Horror,5.9,Andrew Douglas,114596,65230000
+Annabelle Comes Home,2019,106,"Horror, Mystery, Thriller",5.9,Gary Dauberman,80369,74150000
+Final Destination 5,2011,92,"Horror, Thriller",5.9,Steven Quale,120525,42590000
+The Grudge,2004,91,"Horror, Mystery, Thriller",5.9,Takashi Shimizu,147865,110360000
+Antlers,2021,99,"Drama, Horror, Mystery",5.9,Scott Cooper,41508,
+The Void I,2016,90,"Horror, Mystery, Sci-Fi",5.9,Jeremy Gillespie,39049,150000
+King Kong,1976,134,"Adventure, Horror",5.9,John Guillermin,34098,52610000
+The Fourth Kind,2009,98,"Horror, Mystery, Sci-Fi",5.9,Olatunde Osunsanmi,79762,25460000
+The Brothers Grimm,2005,118,"Action, Adventure, Comedy",5.9,Terry Gilliam,123953,37920000
+Hide and Seek,2005,101,"Horror, Mystery",5.9,John Polson,87067,51100000
+The Possession I,2012,92,"Horror, Mystery, Thriller",5.9,Ole Bornedal,61689,49130000
+The Ruins,2008,90,"Adventure, Horror, Thriller",5.9,Carter Smith,77800,17430000
+Cam,2018,94,"Drama, Horror, Mystery",5.9,Daniel Goldhaber,34079,
+Saw IV,2007,93,"Horror, Mystery, Thriller",5.9,Darren Lynn Bousman,155334,63300000
+Child's Play 2,1990,84,"Horror, Thriller",5.9,John Lafia,54569,28500000
+Victor Frankenstein,2015,110,"Drama, Horror, Sci-Fi",5.9,Paul McGuigan,58423,5780000
+The X Files: I Want to Believe,2008,104,"Crime, Drama, Horror",5.9,Chris Carter,92694,20980000
+The Tall Man,2012,106,"Crime, Drama, Horror",5.9,Pascal Laugier,42238,
+Quarantine,2008,89,"Horror, Sci-Fi, Thriller",5.9,John Erick Dowdle,75253,31690000
+P2,2007,98,"Crime, Horror, Thriller",5.9,Franck Khalfoun,35242,3990000
+Pathology,2008,95,"Crime, Horror, Thriller",5.9,Marc Schölermann,32857,110000
+The Prodigy,2019,92,"Fantasy, Horror, Mystery",5.9,Nicholas McCarthy,27470,14860000
+Old,2021,108,"Drama, Horror, Mystery",5.8,M. Night Shyamalan,138969,48280000
+End of Days,1999,122,"Action, Fantasy, Horror",5.8,Peter Hyams,113770,66890000
+Army of the Dead,2021,148,"Action, Crime, Drama",5.8,Zack Snyder,178772,1000000
+Cannibal Holocaust,1980,95,"Adventure, Horror",5.8,Ruggero Deodato,58322,
+I Know What You Did Last Summer,1997,101,"Horror, Mystery",5.8,Jim Gillespie,152273,72590000
+Species,1995,108,"Action, Horror, Sci-Fi",5.8,Roger Donaldson,82499,60070000
+Carrie,2013,100,"Drama, Horror, Thriller",5.8,Kimberly Peirce,144154,35270000
+Splice,2009,104,"Horror, Sci-Fi",5.8,Vincenzo Natali,99872,17000000
+Final Destination 3,2006,93,"Horror, Thriller",5.8,James Wong,147716,54100000
+High Life,2018,113,"Adventure, Drama, Horror",5.8,Claire Denis,38180,1230000
+The Babysitter: Killer Queen,2020,101,"Comedy, Horror",5.8,McG,46011,
+Hollow Man,2000,112,"Action, Horror, Sci-Fi",5.8,Paul Verhoeven,134598,73210000
+Jaws 2,1978,116,"Adventure, Horror, Thriller",5.8,Jeannot Szwarc,80981,102920000
+Blade: Trinity,2004,113,"Action, Horror, Sci-Fi",5.8,David S. Goyer,182834,52410000
+The Mortal Instruments: City of Bones,2013,130,"Action, Adventure, Fantasy",5.8,Harald Zwart,136448,31170000
+Pride and Prejudice and Zombies,2016,108,"Action, Comedy, Fantasy",5.8,Burr Steers,58473,10910000
+Antebellum,2020,105,"Drama, Horror, Mystery",5.8,Gerard Bush,28559,
+Lake Placid,1999,82,"Action, Comedy, Horror",5.8,Steve Miner,63404,31770000
+The Wolfman,2010,103,"Drama, Fantasy, Horror",5.8,Joe Johnston,108821,61980000
+The Texas Chainsaw Massacre: The Beginning,2006,91,"Horror, Thriller",5.8,Jonathan Liebesman,75052,39520000
+The Addams Family,2019,86,"Animation, Comedy, Family",5.8,Greg Tiernan,42739,100040000
+The Divide,2011,112,"Drama, Horror, Sci-Fi",5.8,Xavier Gens,37690,20000
+Eli I,2019,98,"Drama, Horror, Mystery",5.8,Ciarán Foy,38505,
+V/H/S,2012,116,Horror,5.8,Matt Bettinelli-Olpin,65385,100000
+Morgan,2016,92,"Action, Horror, Sci-Fi",5.8,Luke Scott,44898,3910000
+Thinner,1996,93,"Fantasy, Horror",5.8,Tom Holland,32352,15170000
+The Haunting in Connecticut,2009,92,"Drama, Horror, Mystery",5.8,Peter Cornwell,63528,55390000
+Resident Evil: Afterlife,2010,96,"Action, Horror, Sci-Fi",5.8,Paul W.S. Anderson,175349,60130000
+Gothika,2003,98,"Horror, Mystery, Thriller",5.8,Mathieu Kassovitz,116092,59690000
+The Relic,1997,110,"Horror, Mystery, Sci-Fi",5.8,Peter Hyams,29056,33960000
+Dracula: Dead and Loving It,1995,88,"Comedy, Fantasy, Horror",5.8,Mel Brooks,43600,10770000
+Open Water,2003,79,"Adventure, Drama, Horror",5.8,Chris Kentis,55121,30610000
+Halloween H20: 20 Years Later,1998,86,"Horror, Thriller",5.8,Steve Miner,78797,55040000
+Halloween 4: The Return of Michael Myers,1988,88,"Horror, Thriller",5.8,Dwight H. Little,55673,17770000
+Saw V,2008,92,"Horror, Thriller",5.8,David Hackl,128997,56750000
+Black Sheep,2006,87,"Comedy, Horror, Sci-Fi",5.8,Jonathan King,41390,80000
+Paranormal Activity 3,2011,83,"Horror, Mystery",5.8,Henry Joost,97454,104010000
+Cry Wolf,2005,90,"Drama, Horror, Mystery",5.8,Jeff Wadlow,27993,10050000
+White Noise I,2022,136,"Comedy, Drama, Horror",5.7,Noah Baumbach,39252,
+The Purge I,2013,85,"Horror, Sci-Fi, Thriller",5.7,James DeMonaco,231096,64470000
+Escape Room: Tournament of Champions,2021,88,"Action, Adventure, Horror",5.7,Adam Robitel,52337,25190000
+Insidious: The Last Key,2018,103,"Horror, Mystery, Thriller",5.7,Adam Robitel,64055,67750000
+Buffy the Vampire Slayer,1992,86,"Action, Comedy, Fantasy",5.7,Fran Rubel Kuzui,47048,16620000
+Underworld: Blood Wars,2016,91,"Action, Adventure, Fantasy",5.7,Anna Foerster,78499,30350000
+The Rental,2020,88,"Drama, Horror, Mystery",5.7,Dave Franco,35194,
+Jigsaw I,2017,92,"Horror, Mystery, Thriller",5.7,Michael Spierig,83738,38050000
+Freddy vs. Jason,2003,97,"Action, Horror",5.7,Ronny Yu,123003,82620000
+Cooties,2014,88,"Action, Comedy, Horror",5.7,Jonathan Milott,27279,60000
+I Spit on Your Grave 2,2013,106,"Horror, Thriller",5.7,Steven R. Monroe,31209,
+Pet Sematary,2019,101,"Horror, Mystery, Thriller",5.7,Kevin Kölsch,94828,54720000
+Priest,2011,87,"Action, Fantasy, Horror",5.7,Scott Stewart,121940,29140000
+Velvet Buzzsaw,2019,113,"Horror, Mystery, Thriller",5.7,Dan Gilroy,63837,
+Would You Rather,2012,93,"Horror, Thriller",5.7,David Guy Levy,43247,
+Rubber,2010,82,"Comedy, Fantasy, Horror",5.7,Quentin Dupieux,38724,100000
+Child's Play,2019,90,"Drama, Horror, Sci-Fi",5.7,Lars Klevberg,54170,29210000
+Devil's Pass,2013,100,"Horror, Mystery, Thriller",5.7,Renny Harlin,26283,
+Clown,2014,100,"Horror, Thriller",5.7,Jon Watts,25286,60000
+Paranormal Activity 2,2010,91,"Horror, Mystery",5.7,Tod Williams,107097,84750000
+The Descent: Part 2,2009,94,"Adventure, Horror, Thriller",5.7,Jon Harris,49297,
+The Last Exorcism,2010,87,"Horror, Mystery, Thriller",5.7,Daniel Stamm,50953,41030000
+Honeymoon,2014,87,"Drama, Fantasy, Horror",5.7,Leigh Janiak,26685,10000
+The Bay II,2012,84,"Horror, Sci-Fi, Thriller",5.7,Barry Levinson,28565,30000
+Bhool Bhulaiyaa 2,2022,143,"Comedy, Drama, Horror",5.7,Anees Bazmee,32061,
+Terrifier,2016,85,"Horror, Thriller",5.6,Damien Leone,42712,
+The Meg,2018,113,"Action, Horror, Sci-Fi",5.6,Jon Turteltaub,181197,143010000
+Beast I,2022,93,"Action, Adventure, Drama",5.6,Baltasar Kormákur,34598,31850000
+Ghost Ship,2002,91,"Horror, Mystery, Thriller",5.6,Steve Beck,104944,30110000
+Scream 3,2000,116,"Horror, Mystery",5.6,Wes Craven,155289,89140000
+Urban Legend,1998,99,"Horror, Mystery, Thriller",5.6,Jamie Blanks,68975,38070000
+Thir13en Ghosts,2001,91,"Fantasy, Horror",5.6,Steve Beck,90122,41870000
+Children of the Corn,1984,92,"Horror, Thriller",5.6,Fritz Kiersch,54851,14570000
+47 Meters Down,2017,89,"Adventure, Drama, Horror",5.6,Johannes Roberts,58160,44310000
+I Spit on Your Grave,1978,101,"Horror, Thriller",5.6,Meir Zarchi,29806,
+Pacific Rim: Uprising,2018,111,"Action, Adventure, Fantasy",5.6,Steven S. DeKnight,121533,59870000
+Alien vs. Predator,2004,101,"Action, Adventure, Horror",5.6,Paul W.S. Anderson,205934,80280000
+Cabin Fever,2002,93,Horror,5.6,Eli Roth,80830,21160000
+Friday the 13th Part III,1982,95,"Horror, Thriller",5.6,Steve Miner,56597,36690000
+Mom and Dad,2017,86,"Comedy, Horror, Thriller",5.6,Brian Taylor,25496,
+Jeepers Creepers 2,2003,104,Horror,5.6,Victor Salva,68038,35670000
+Ma I,2019,99,"Horror, Mystery, Thriller",5.6,Tate Taylor,55805,45370000
+Maggie I,2015,95,"Drama, Horror, Sci-Fi",5.6,Henry Hobson,45541,190000
+Unfriended,2014,83,"Horror, Mystery, Thriller",5.6,Levan Gabriadze,78487,32480000
+Bride of Chucky,1998,89,"Comedy, Horror, Thriller",5.6,Ronny Yu,61366,32400000
+The Texas Chainsaw Massacre 2,1986,101,"Comedy, Horror",5.6,Tobe Hooper,35333,8030000
+House on Haunted Hill,1999,93,"Horror, Mystery, Thriller",5.6,William Malone,58487,40850000
+Village of the Damned,1995,98,"Horror, Sci-Fi, Thriller",5.6,John Carpenter,33118,9420000
+Regression I,2015,106,"Adventure, Crime, Drama",5.6,Alejandro Amenábar,41510,50000
+A Nightmare on Elm Street 4: The Dream Master,1988,93,Horror,5.6,Renny Harlin,58602,49370000
+Curse of Chucky,2013,97,"Horror, Thriller",5.6,Don Mancini,41474,3800000
+Poltergeist II: The Other Side,1986,91,Horror,5.6,Brian Gibson,28529,41000000
+Creep I,2004,85,"Horror, Mystery, Thriller",5.6,Christopher Smith,30858,
+Dark Water,2005,105,"Drama, Horror, Mystery",5.6,Walter Salles,64235,25470000
+Hatchet,2006,93,"Comedy, Horror, Thriller",5.6,Adam Green,32231,160000
+Club Dread,2004,104,"Comedy, Horror, Mystery",5.6,Jay Chandrasekhar,30873,4990000
+The Reaping,2007,99,"Horror, Thriller",5.6,Stephen Hopkins,43940,25120000
+Piranha 3D,2010,88,"Comedy, Horror",5.5,Alexandre Aja,94107,25000000
+Wrong Turn,2021,109,"Horror, Thriller",5.5,Mike P. Nelson,33584,
+Friday the 13th,2009,97,"Horror, Mystery, Thriller",5.5,Marcus Nispel,111943,65000000
+Willy's Wonderland,2021,88,"Action, Comedy, Horror",5.5,Kevin Lewis,33195,
+Hostel: Part II,2007,94,Horror,5.5,Eli Roth,92969,17610000
+The Cloverfield Paradox,2018,102,"Action, Adventure, Horror",5.5,Julius Onah,109111,
+Halloween Kills,2021,105,"Horror, Thriller",5.5,David Gordon Green,91008,92000000
+House at the End of the Street,2012,101,"Drama, Horror, Thriller",5.5,Mark Tonderai,78952,31610000
+The Dead Don't Die,2019,104,"Comedy, Fantasy, Horror",5.5,Jim Jarmusch,82134,6560000
+Eight Legged Freaks,2002,99,"Action, Adventure, Comedy",5.5,Ellory Elkayem,58839,17320000
+Resident Evil: The Final Chapter,2016,107,"Action, Horror, Sci-Fi",5.5,Paul W.S. Anderson,97554,26830000
+Gretel & Hansel,2020,87,"Fantasy, Horror, Mystery",5.5,Oz Perkins,32438,15350000
+Saw 3D,2010,90,"Horror, Mystery",5.5,Kevin Greutert,102181,45710000
+Peninsula,2020,116,"Action, Horror, Thriller",5.5,Sang-ho Yeon,35176,1230000
+Dreamcatcher,2003,134,"Drama, Horror, Sci-Fi",5.5,Lawrence Kasdan,94534,33720000
+The Last Days on Mars,2013,98,"Adventure, Horror, Sci-Fi",5.5,Ruairi Robinson,38026,20000
+The Ward,2010,89,"Horror, Mystery, Thriller",5.5,John Carpenter,43657,
+The Omen,2006,110,"Drama, Fantasy, Horror",5.5,John Moore,60750,54610000
+All the Boys Love Mandy Lane,2006,90,"Horror, Mystery, Thriller",5.5,Jonathan Levine,34017,
+Hellraiser III: Hell on Earth,1992,97,Horror,5.5,Anthony Hickox,33318,12530000
+The Innkeepers,2011,101,"Drama, Horror, Mystery",5.5,Ti West,36301,80000
+Don't Be Afraid of the Dark,2010,99,"Fantasy, Horror, Thriller",5.5,Troy Nixey,49772,24040000
+Cube²: Hypercube,2002,94,"Horror, Mystery, Sci-Fi",5.5,Andrzej Sekula,68747,
+Diary of the Dead,2007,95,"Fantasy, Horror, Sci-Fi",5.5,George A. Romero,48380,960000
+White Noise I,2005,101,"Drama, Horror, Mystery",5.5,Geoffrey Sax,49931,56390000
+Jennifer's Body,2009,102,"Comedy, Horror",5.4,Karyn Kusama,141859,16200000
+The Mummy,2017,110,"Action, Adventure, Fantasy",5.4,Alex Kurtzman,196693,80100000
+Teeth I,2007,94,"Comedy, Fantasy, Horror",5.4,Mitchell Lichtenstein,44984,350000
+The Lawnmower Man,1992,108,"Horror, Sci-Fi",5.4,Brett Leonard,37519,32100000
+The Forever Purge,2021,103,"Action, Crime, Horror",5.4,Everardo Gout,38456,44540000
+Annabelle I,2014,99,"Horror, Mystery, Thriller",5.4,John R. Leonetti,166025,84270000
+The Witches,2020,106,"Adventure, Comedy, Family",5.4,Robert Zemeckis,43623,200000
+House of Wax,2005,113,"Horror, Thriller",5.4,Jaume Collet-Serra,129174,32060000
+Countdown III,2019,90,"Horror, Thriller",5.4,Justin Dec,41867,
+In the Tall Grass,2019,101,"Horror, Mystery, Sci-Fi",5.4,Vincenzo Natali,60139,
+Maximum Overdrive,1986,98,"Action, Comedy, Horror",5.4,Stephen King,34054,7430000
+A Nightmare on Elm Street 2: Freddy's Revenge,1985,87,Horror,5.4,Jack Sholder,73312,30000000
+Vampire Academy,2014,104,"Action, Comedy, Drama",5.4,Mark Waters,55923,7790000
+Turistas,2006,93,"Horror, Mystery, Thriller",5.4,John Stockwell,39687,7030000
+The Ring Two,2005,110,"Horror, Mystery",5.4,Hideo Nakata,98602,76230000
+Red Riding Hood,2011,100,"Fantasy, Horror, Mystery",5.4,Catherine Hardwicke,113995,37660000
+Winchester,2018,99,"Drama, Fantasy, Horror",5.4,Michael Spierig,35434,25090000
+My Bloody Valentine,2009,101,"Horror, Mystery, Thriller",5.4,Patrick Lussier,58571,51550000
+Jessabelle,2014,90,"Drama, Horror, Mystery",5.4,Kevin Greutert,25037,
+The Eye,2008,98,"Horror, Mystery",5.4,David Moreau,55021,31420000
+Tusk I,2014,102,"Comedy, Horror",5.3,Kevin Smith,58591,1820000
+The Invitation II,2022,105,"Horror, Thriller",5.3,Jessica M. Thompson,26160,
+The Nun,2018,96,"Horror, Mystery, Thriller",5.3,Corin Hardy,148299,117450000
+The Green Inferno,2013,100,"Adventure, Horror",5.3,Eli Roth,46716,7190000
+The Predator,2018,107,"Action, Adventure, Horror",5.3,Shane Black,138182,51020000
+Scary Movie 2,2001,83,"Comedy, Horror",5.3,Keenen Ivory Wayans,167717,71310000
+Legion,2010,100,"Action, Fantasy, Horror",5.3,Scott Stewart,108043,40170000
+The New Mutants,2020,94,"Action, Horror, Mystery",5.3,Josh Boone,84381,23860000
+Things Heard & Seen,2021,121,"Drama, Horror, Mystery",5.3,Shari Springer Berman,33777,
+Sinister 2,2015,97,"Horror, Mystery, Thriller",5.3,Ciarán Foy,57723,27740000
+The Silence I,2019,90,"Drama, Horror, Sci-Fi",5.3,John R. Leonetti,48055,
+Resident Evil: Retribution,2012,95,"Action, Horror, Sci-Fi",5.3,Paul W.S. Anderson,146296,42350000
+The Stepford Wives,2004,93,"Comedy, Horror, Sci-Fi",5.3,Frank Oz,68040,59480000
+The Messengers,2007,90,"Drama, Horror, Mystery",5.3,Danny Pang,40604,35370000
+The Resident,2011,91,"Crime, Drama, Horror",5.3,Antti J. Jokinen,28945,
+The Colony I,2013,95,"Action, Horror, Sci-Fi",5.3,Jeff Renfroe,46277,
+Doom,2005,105,"Action, Horror, Sci-Fi",5.2,Andrzej Bartkowiak,116192,28210000
+Morbius,2022,104,"Action, Adventure, Horror",5.2,Daniel Espinosa,137749,73870000
+The Covenant,2006,97,"Action, Adventure, Fantasy",5.2,Renny Harlin,50834,23290000
+Resident Evil: Welcome to Raccoon City,2021,107,"Action, Horror, Sci-Fi",5.2,Johannes Roberts,58422,17000000
+Hellboy,2019,120,"Action, Adventure, Fantasy",5.2,Neil Marshall,94121,21900000
+Spiral,2021,93,"Horror, Mystery, Thriller",5.2,Darren Lynn Bousman,58812,
+Flatliners,2017,109,"Drama, Horror, Mystery",5.2,Niels Arden Oplev,49170,16880000
+The Mummy: Tomb of the Dragon Emperor,2008,112,"Action, Adventure, Fantasy",5.2,Rob Cohen,166078,102490000
+The Bad Batch,2016,118,"Action, Horror, Mystery",5.2,Ana Lily Amirpour,33671,180000
+Spawn,1997,96,"Action, Drama, Horror",5.2,Mark A.Z. Dippé,70341,54970000
+Truth or Dare I,2018,100,"Horror, Thriller",5.2,Jeff Wadlow,59199,41410000
+The Curse of La Llorona,2019,93,"Horror, Mystery, Thriller",5.2,Michael Chaves,53361,54730000
+Queen of the Damned,2002,101,"Drama, Fantasy, Horror",5.2,Michael Rymer,57951,30340000
+Scooby-Doo 2: Monsters Unleashed,2004,93,"Adventure, Comedy, Family",5.2,Raja Gosnell,61313,84220000
+Hubie Halloween,2020,103,"Comedy, Horror, Mystery",5.2,Steven Brill,53916,
+A Nightmare on Elm Street,2010,95,"Crime, Drama, Horror",5.2,Samuel Bayer,103828,63080000
+The First Purge,2018,97,"Action, Horror, Sci-Fi",5.2,Gerard McMurray,66568,69490000
+The Strangers: Prey at Night,2018,85,Horror,5.2,Johannes Roberts,32686,24430000
+Friday the 13th Part VII: The New Blood,1988,88,"Horror, Thriller",5.2,John Carl Buechler,39646,19170000
+Shutter I,2008,85,"Horror, Mystery, Thriller",5.2,Masayuki Ochiai,36208,25930000
+Cult of Chucky,2017,91,"Horror, Thriller",5.2,Don Mancini,27436,
+Apollo 18,2011,86,"Horror, Mystery, Sci-Fi",5.2,Gonzalo López-Gallego,56777,17690000
+The Lazarus Effect,2015,83,"Horror, Mystery, Sci-Fi",5.2,David Gelb,44970,25800000
+The Lords of Salem,2012,101,"Horror, Thriller",5.2,Rob Zombie,31229,1160000
+Friend Request,2016,92,"Horror, Mystery, Thriller",5.2,Simon Verhoeven,27158,3760000
+The Unholy,2021,99,"Drama, Horror, Mystery",5.1,Evan Spiliotopoulos,25389,
+The Haunted Mansion,2003,88,"Comedy, Family, Fantasy",5.1,Rob Minkoff,51618,75850000
+The Final Destination,2009,82,"Horror, Thriller",5.1,David R. Ellis,110457,66480000
+Sorority Row,2009,101,"Horror, Mystery",5.1,Stewart Hendler,31640,11960000
+The Hills Have Eyes 2,2007,89,"Horror, Thriller",5.1,Martin Weisz,65955,20800000
+When a Stranger Calls,2006,87,"Horror, Thriller",5.1,Simon West,47247,47860000
+The Cave,2005,97,"Adventure, Horror, Sci-Fi",5.1,Bruce Hunt,40180,15010000
+Halloween III: Season of the Witch,1982,98,"Horror, Mystery, Sci-Fi",5.1,Tommy Lee Wallace,57269,14400000
+Exorcist: The Beginning,2004,114,"Horror, Mystery, Thriller",5.1,Renny Harlin,37959,41820000
+Child's Play 3,1991,90,"Horror, Thriller",5.1,Jack Bender,43765,14960000
+An American Werewolf in Paris,1997,98,"Comedy, Fantasy, Horror",5.1,Anthony Waller,26134,26570000
+Grave Encounters 2,2012,98,"Horror, Mystery",5.1,John Poliquin,26222,
+A Serbian Film,2010,104,"Horror, Mystery, Thriller",5,Srdjan Spasojevic,67662,
+Halloween Ends,2022,111,"Horror, Thriller",5,David Gordon Green,62008,
+Shadow in the Cloud,2020,83,"Action, Horror, War",5,Roseanne Liang,28700,
+47 Meters Down: Uncaged,2019,90,"Adventure, Drama, Horror",5,Johannes Roberts,28859,22260000
+Leatherface,2017,90,"Crime, Horror, Thriller",5,Alexandre Bustillo,25704,
+The Haunting,1999,113,"Fantasy, Horror, Mystery",5,Jan de Bont,78402,91410000
+A Haunted House,2013,86,"Comedy, Fantasy, Horror",5,Michael Tiddes,48272,40040000
+How It Ends,2018,113,"Action, Drama, Horror",5,David M. Rosenthal,55729,
+Blair Witch,2016,89,"Horror, Mystery, Thriller",5,Adam Wingard,47890,20780000
+Virus,1999,99,"Action, Horror, Sci-Fi",5,John Bruno,29017,14010000
+Stay Alive,2006,85,"Fantasy, Horror, Mystery",5,William Brent Bell,33235,23090000
+A Nightmare on Elm Street: The Dream Child,1989,89,"Fantasy, Horror",5,Stephen Hopkins,48222,22170000
+See No Evil,2006,84,"Action, Horror, Thriller",5,Gregory Dark,28075,15030000
+Chernobyl Diaries,2012,86,"Horror, Mystery, Thriller",5,Bradley Parker,67339,18120000
+Cursed,2005,97,"Comedy, Horror",5,Wes Craven,34024,19300000
+Paranormal Activity: The Marked Ones,2014,84,"Horror, Mystery",5,Christopher Landon,44216,32460000
+The Grudge 2,2006,102,"Horror, Thriller",5,Takashi Shimizu,50475,39140000
+[REC] 3: Genesis,2012,80,"Horror, Thriller",5,Paco Plaza,36765,10000
+An American Haunting,2005,83,"Drama, Horror, Mystery",5,Courtney Solomon,26374,16300000
+Knock Knock I,2015,99,"Crime, Drama, Horror",4.9,Eli Roth,99384,40000
+The Darkest Hour,2011,89,"Action, Adventure, Horror",4.9,Chris Gorak,62428,21430000
+Fantasy Island,2020,109,"Fantasy, Horror, Mystery",4.9,Jeff Wadlow,55082,27310000
+Dracula 2000,2000,99,"Action, Fantasy, Horror",4.9,Patrick Lussier,35130,33020000
+Silent Hill: Revelation,2012,95,"Horror, Mystery, Thriller",4.9,M.J. Bassett,65270,17530000
+Seed of Chucky,2004,87,"Comedy, Horror, Thriller",4.9,Don Mancini,47581,17080000
+Ghosts of Mars,2001,98,"Action, Horror, Sci-Fi",4.9,John Carpenter,56213,8430000
+Poltergeist,2015,93,"Horror, Thriller",4.9,Gil Kenan,59621,47430000
+Darkness Falls,2003,86,"Fantasy, Horror, Mystery",4.9,Jonathan Liebesman,32613,32550000
+Valentine,2001,96,"Horror, Mystery, Thriller",4.9,Jamie Blanks,29306,20380000
+Halloween 5: The Revenge of Michael Myers,1989,96,"Horror, Thriller",4.9,Dominique Othenin-Girard,44618,11640000
+Vanishing on 7th Street,2010,92,"Horror, Mystery, Thriller",4.9,Brad Anderson,26800,20000
+Anaconda,1997,89,"Action, Adventure, Horror",4.8,Luis Llosa,108000,65890000
+Texas Chainsaw,2013,92,"Horror, Thriller",4.8,John Luessenhop,53682,34340000
+The Forest I,2016,93,"Horror, Mystery, Thriller",4.8,Jason Zada,44543,26580000
+Leprechaun,1993,92,"Comedy, Fantasy, Horror",4.8,Mark Jones,28663,8560000
+The Roommate I,2011,91,"Drama, Horror, Thriller",4.8,Christian E. Christiansen,40236,37300000
+Halloween II,2009,105,Horror,4.8,Rob Zombie,57387,33390000
+Meet the Blacks,2016,94,"Comedy, Horror",4.8,Deon Taylor,37146,9090000
+The Woman in Black 2: Angel of Death,2014,98,"Drama, Horror, Thriller",4.8,Tom Harper,28992,26500000
+Godsend,2004,102,"Action, Drama, Fantasy",4.8,Frank M. Calo,26088,14380000
+Texas Chainsaw Massacre,2022,81,"Crime, Horror, Thriller",4.7,David Blue Garcia,56803,
+The Unborn,2009,88,"Horror, Mystery, Thriller",4.7,David S. Goyer,52574,42670000
+Friday the 13th: A New Beginning,1985,92,"Horror, Mystery, Thriller",4.7,Danny Steinmann,41029,21930000
+I Still Know What You Did Last Summer,1998,100,"Horror, Mystery, Thriller",4.7,Danny Cannon,76322,40000000
+Anacondas: The Hunt for the Blood Orchid,2004,97,"Action, Adventure, Horror",4.7,Dwight H. Little,32734,32240000
+Halloween: The Curse of Michael Myers,1995,87,"Horror, Thriller",4.7,Joe Chappelle,39712,15120000
+Freddy's Dead: The Final Nightmare,1991,89,"Fantasy, Horror",4.7,Rachel Talalay,48694,34870000
+Pulse I,2006,90,"Horror, Sci-Fi, Thriller",4.7,Jim Sonzero,30021,20260000
+Death Note I,2017,101,"Crime, Drama, Fantasy",4.6,Adam Wingard,87627,
+Aliens vs. Predator: Requiem,2007,94,"Action, Adventure, Horror",4.6,Colin Strause,129458,41800000
+Psycho,1998,105,"Horror, Mystery, Thriller",4.6,Gus Van Sant,49550,21460000
+Paranormal Activity 4,2012,88,"Horror, Mystery",4.6,Henry Joost,68431,53920000
+The Pyramid,2014,89,"Horror, Mystery, Thriller",4.6,Grégory Levasseur,25483,2760000
+Black Christmas,2006,95,Horror,4.6,Glen Morgan,28952,16240000
+Paranormal Activity: The Ghost Dimension,2015,88,"Horror, Mystery",4.6,Gregory Plotkin,29413,18300000
+The Island of Dr. Moreau,1996,96,"Horror, Sci-Fi, Thriller",4.5,John Frankenheimer,34527,27660000
+Ouija II,2014,89,"Horror, Mystery, Thriller",4.5,Stiles White,54888,50860000
+Rings,2017,102,"Drama, Horror, Mystery",4.5,F. Javier Gutiérrez,41974,27790000
+Species II,1998,93,"Action, Horror, Sci-Fi",4.5,Peter Medak,30268,19170000
+Friday the 13th Part VIII: Jason Takes Manhattan,1989,100,"Adventure, Horror, Thriller",4.5,Rob Hedden,40404,14340000
+The Human Centipede (First Sequence),2009,92,Horror,4.4,Tom Six,82947,180000
+Jason X,2001,92,"Action, Horror, Sci-Fi",4.4,James Isaac,58799,13120000
+Cell I,2016,98,"Action, Adventure, Horror",4.4,Tod Williams,29193,
+The Grudge I,2020,94,"Fantasy, Horror",4.4,Nicolas Pesce,27873,
+The Bye Bye Man,2017,96,"Drama, Fantasy, Horror",4.3,Stacy Title,25127,22380000
+Boogeyman,2005,89,"Drama, Horror, Mystery",4.2,Stephen Kay,31868,46750000
+The Devil Inside,2012,83,Horror,4.2,William Brent Bell,36661,53260000
+Jason Goes to Hell: The Final Friday,1993,87,"Fantasy, Horror, Thriller",4.1,Adam Marcus,34519,15940000
+Shark Night,2011,90,"Action, Adventure, Horror",4,David R. Ellis,26648,18870000
+One Missed Call,2008,87,"Horror, Mystery",4,Eric Valette,33249,26880000
+Book of Shadows: Blair Witch 2,2000,90,"Adventure, Fantasy, Horror",4,Joe Berlinger,39110,26440000
+Prom Night I,2008,88,Horror,3.9,Nelson McCormick,36982,43870000
+Halloween: Resurrection,2002,90,"Horror, Thriller",3.9,Rick Rosenthal,46928,30350000
+Plan 9 from Outer Space,1957,79,"Horror, Sci-Fi",3.9,Edward D. Wood Jr.,39496,
+Piranha 3DD,2012,83,"Comedy, Horror, Sci-Fi",3.8,John Gulager,44248,380000
+The Human Centipede 2 (Full Sequence),2011,91,Horror,3.8,Tom Six,40950,120000
+The Wicker Man,2006,102,"Horror, Mystery, Thriller",3.8,Neil LaBute,69700,23640000
+Exorcist II: The Heretic,1977,117,Horror,3.8,John Boorman,25949,30750000
+Jaws 3-D,1983,99,"Adventure, Horror, Thriller",3.7,Joe Alves,46082,45520000
+The Fog,2005,100,"Horror, Mystery",3.7,Rupert Wainwright,38246,29510000
+I Know Who Killed Me,2007,105,"Horror, Mystery, Thriller",3.6,Chris Sivertson,30446,7500000
+Scary Movie V,2013,86,"Comedy, Horror",3.5,Malcolm D. Lee,74534,32020000
+Vampires Suck,2010,82,"Comedy, Horror",3.4,Jason Friedberg,50206,36660000
+The Open House,2018,94,"Horror, Thriller",3.3,Matt Angel,35819,
+Slender Man I,2018,93,"Horror, Mystery, Thriller",3.2,Sylvain White,36238,30570000
+Jaws: The Revenge,1987,89,"Adventure, Horror, Thriller",3,Joseph Sargent,47708,20760000
+BloodRayne,2005,95,"Action, Fantasy, Horror",3,Uwe Boll,36527,2410000
+Troll 2,1990,95,"Comedy, Fantasy, Horror",2.9,Claudio Fragasso,33908,
+Laxmii,2020,141,"Action, Comedy, Horror",2.5,Raghava Lawrence,58053,
+Alone in the Dark,2005,96,"Action, Horror, Sci-Fi",2.4,Uwe Boll,46403,5180000
+House of the Dead,2003,90,"Action, Adventure, Horror",2.1,Uwe Boll,38041,10250000
+Manos: The Hands of Fate,1966,70,Horror,1.6,Harold P. Warren,37060,
