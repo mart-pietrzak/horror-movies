@@ -41,7 +41,22 @@ GROUP BY movie_year
 ORDER BY SUM(gross_earning) DESC
 LIMIT 15;
 
---2017-2019 all grossed above $1 billion, nice. Now, I want to look at the PUREST horror--
+--2017-2019 all grossed above $1 billion, nice. Now, what are the top 5 highest grossing movies of all time?--
+
+SELECT movie_title, movie_year, genre, gross_earning AS box_office FROM movie_db
+WHERE gross_earning IS NOT null AND genre LIKE '%Horror%' -- The genre MUST include horror tag
+ORDER BY gross_earning DESC
+LIMIT 5
+
+--Time to float! Now, let's see which directors have been the most financially successful--
+
+SELECT director, SUM(gross_earning) as box_office FROM movie_db
+WHERE gross_earning IS NOT null
+GROUP BY director
+ORDER BY SUM(gross_earning) DESC
+LIMIT 5
+  
+--IT continues to haunt us. For a change of pace, I'll check how many PURE HORROR movies are there in the db?--
 
 SELECT movie_title, movie_year, genre, rating FROM movie_db
 WHERE genre = 'Horror'
